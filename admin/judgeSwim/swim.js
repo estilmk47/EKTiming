@@ -276,7 +276,7 @@ function renderStatus(){
         mainButton.style.backgroundColor = "green";
     }
     else if(server.ended){
-        statusBar.innerHTML = "Race Finnished";
+        statusBar.innerHTML = "Race Finished";
         statusBar.style.backgroundColor = "black";
         mainButton.style.backgroundColor = "black";
     }
